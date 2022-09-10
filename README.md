@@ -25,9 +25,3 @@ In the repositories folder, please update the userReposity file with the usernam
 The name of database used is `user_records`.\
 The table created is users with id, name and age
 `CREATE TABLE user_records.users ('id' INT NOT NULL AUTO_INCREMENT,'name' VARCHAR(45) NOT NULL,'age' INT NOT NULL, PRIMARY KEY ('id'));`
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
